@@ -1,0 +1,3 @@
+export const CHAIN_IDS = ["80001"];
+
+export const DY_FACTORY_ADDRESS = "0x288349bB26AcEF0D0d20d95600B6e1D6Ad50C05c";
